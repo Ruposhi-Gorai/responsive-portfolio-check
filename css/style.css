@@ -21,7 +21,6 @@ body {
   width: 100%;
   display: flex;
   gap: 20px;
-  /* flex-wrap: wrap; */
   justify-content: space-between;
 }
 .navbar {
@@ -59,7 +58,8 @@ body {
 .inner-h h1 {
   color: var(--color);
   font-size: 60px;
-  line-height: 1.1;
+  padding: 20px 0;
+  line-height: 1.2;
   font-weight: 500;
   padding: 20px 0px;
   box-sizing: border-box;
